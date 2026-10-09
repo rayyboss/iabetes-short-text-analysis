@@ -55,7 +55,7 @@ The research comparatively benchmarks a baseline statistical classifier against 
 
 ## 👨‍💻 Author & Attribution
 * **Researcher:** Patrick Ray Agbo (BSc Mathematics Graduate, UMaT)
-* **Project Advisor:** Assoc. Professor Joseph Acquah (Mathematical Science Programme, UMaT)
+* **Project Advisor:** Professor Joseph Acquah (Mathematical Science Programme, UMaT)
 * **Affiliation:** School of Railways and Infrastructure Development, Essikado Campus, University of Mines and Technology, Tarkwa, Ghana.
 * **Research Completed:** August, 2025
 * linkedIn: https://www.linkedin.com/in/patrick-agbo-797b24321?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
